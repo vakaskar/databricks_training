@@ -1,2 +1,2 @@
 # databricks_training
-Databricks_trining repo
+Databricks_training repo
